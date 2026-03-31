@@ -19,7 +19,7 @@ If you're into tech, you're in the right place.
 ---
 
 ### 🤖  Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=js,py,ts,react,nextjs,sqlite,c,fastapi,tailwind,docker,nodejs,nextjs,wordpress,mongodb,postgres,selenium,vscode,flask,figma,mysql,git,linux&perline=19)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,py,ts,react,sqlite,c,fastapi,docker,postgres,selenium,vscode,flask,figma,mysql,git,linux&perline=19)](https://skillicons.dev)
 
 <br/>
 
