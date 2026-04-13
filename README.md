@@ -4,7 +4,7 @@
 
 I’m currently studying IT at Itel High School and dedicating my days to building and learning through hands-on projects. I’m passionate about technology, programming, and self-taught development.
 
-On my YouTube channel, "[Dev Gox](https://www.youtube.com/@DevGox)" I share what I learn — from web development and automation to AI, bots, and cybersecurity.
+On my YouTube channel, "[LioExp](https://www.youtube.com/@lioexp1)" I share what I learn — from web development and automation to AI, bots, and cybersecurity.
 
 If you're into tech, you're in the right place.
 
