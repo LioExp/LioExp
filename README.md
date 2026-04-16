@@ -38,7 +38,7 @@ If you're into tech, you're in the right place.
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jorge-Costa0&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=LioExp&theme=radical&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
 
