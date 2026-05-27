@@ -45,7 +45,7 @@ Agente de IA para vendas no WhatsApp com rastreamento de afiliados e comissões 
 <tr>
 <td width="50%" valign="top">
 
-**[FileFlow](https://github.com/LioExp/fileflow)** &nbsp; `exp_003`
+**[FileFlow](https://github.com/LioExp/file-flow-assistent)** &nbsp; `exp_003`
 
 Organizador de ficheiros com soft delete e detecção de duplicatas — 100% open source.
 
