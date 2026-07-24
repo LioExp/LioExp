@@ -52,6 +52,15 @@ Organizador de ficheiros com soft delete e detecção de duplicatas — 100% ope
 ![Python](https://img.shields.io/badge/Python-0d0a15?style=flat-square&logo=python&logoColor=7F77DD)
 
 </td>
+<td width="50%" valign="top">
+
+**[myroadmap](https://github.com/LioExp/myroadmap)** &nbsp; `exp_004`
+
+website roadmap open source.
+
+![html](https://img.shields.io/badge/html-0d0a15?style=flat-square&logo=html&logoColor=7F77DD)
+
+</td>
 
 </td>
 </tr>
