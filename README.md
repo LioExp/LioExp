@@ -16,6 +16,20 @@
 
 </div>
 
+---
+
+# 👋 About
+
+```console
+$ whoami
+
+Name        : Lio Costa
+Role        : Backend Developer
+Focus       : AI Security & Automation
+OS          : Arch Linux
+```
+---
+
 ## 🧪 Projectos
 
 <table>
